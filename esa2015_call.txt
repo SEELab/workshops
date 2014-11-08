@@ -1,33 +1,34 @@
-Components of a Workshop Proposal
+**Components of a Workshop Proposal**
 
-Title of the session
+*Title of the session*
 Ecological Systems Analysis and enaR
 
-Description of the session (appears online only; 250 words max.)
+*Description of the session (appears online only; 250 words max.)*
 - Introduce systems theory (Stuart)
 - Ecosystem models (Caner)
 - Software best practices (scripting best practices)
 - Model analysis: enaR (Matt + Stuart) and EcoNet (Caner)
 - Model simulation: EcoNet (Caner + Stuart) and enaR sensitivity (Stuart + Matt)
 
-Summary sentence (appears in print only; 50 word max.)
+*Summary sentence (appears in print only; 50 word max.)*
 This workshop will introduce ecologists to systems thinking and network analysis through: 1) an interactive overview of systems and network theory in ecology and 2) a hands-on training session for ecosystem network modeling and analysis using enaR and EcoNet.
 
-Name and contact information (affiliation, email) for the lead organizer and any co-organizers
+*Name and contact information (affiliation, email) for the lead organizer and any co-organizers*
 Stuart Borrett (Department of Biology and Marine Biology, University of North Carolina Wilmington, borretts@uncw.edu)
 Caner Kazanci (Department of Mathematics and Faculty of Engineering, University of Georgia, caner@uga.edu)
 Matthew Lau (Harvard Forest, Harvard University, matthewklau@fas.harvard.edu)
 
-Minimum and maximum number of participants
+*Minimum and maximum number of participants*
 10-25
 
-Requested scheduling:
+*Requested scheduling:*
 Saturday or Sunday morning (8:00 – 11:30 AM; 3.5 hours)
 Saturday or Sunday afternoon (12:00 – 5:00 PM; 5 hours)
 Saturday or Sunday full day (8:00 – 5:00 PM; 9 hours)
 Monday, Tuesday, or Thursday lunch break (11:30 am – 1:15 pm; 1.75 hours)
 Monday, Tuesday, or Wednesday evening (8 – 10 pm; 2 hours)
 
+*Setup*
 The standard A/V setup is a screen, LCD projector, and laptop. Any additional A/V equipment must be requested in the proposal and may incur additional fees. Additional equipment includes internet connectivity, speakers for sound, portable microphones,  flip charts, easel poster boards, and extra power strips for participant laptops.
 
 Room set-up desired: theater, conference, hollow square, rounds, other. 
