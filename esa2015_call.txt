@@ -6,12 +6,15 @@ Ecological Systems Analysis and enaR
 Description of the session (appears online only; 250 words max.)
 - Introduce systems theory
 - Network analysis and ENA
-- enaR
+- enaR and EWE sessions
 
 Summary sentence (appears in print only; 50 word max.)
-
+This workshop will introduce ecologists to systems thinking and network analysis through: 1) an interactive overview of systems and network theory in ecology and 2) a hands-on training session for ecosystem network modeling and analysis using enaR and EcoNet.
 
 Name and contact information (affiliation, email) for the lead organizer and any co-organizers
+Stuart Borrett (Department of Biology and Marine Biology, University of North Carolina Wilmington, borretts@uncw.edu)
+Caner Kazanci (Department of Mathematics and Faculty of Engineering, University of Georgia, caner@uga.edu)
+Matthew Lau (Harvard Forest, Harvard University, matthewklau@fas.harvard.edu)
 
 Minimum and maximum number of participants
 10-25
@@ -24,6 +27,7 @@ Monday, Tuesday, or Thursday lunch break (11:30 am – 1:15 pm; 1.75 hours)
 Monday, Tuesday, or Wednesday evening (8 – 10 pm; 2 hours)
 
 The standard A/V setup is a screen, LCD projector, and laptop. Any additional A/V equipment must be requested in the proposal and may incur additional fees. Additional equipment includes internet connectivity, speakers for sound, portable microphones,  flip charts, easel poster boards, and extra power strips for participant laptops.
+
 Room set-up desired: theater, conference, hollow square, rounds, other. 
 
 In order to give priority to paper sessions, it is unlikely we will be able to provide room setups other than theater style for the weekday lunchtime (11:30 AM – 1:15 PM) workshop time slots. The weekend and evening time slots are typically more flexible in regard to room setup options.
@@ -31,7 +35,9 @@ In order to give priority to paper sessions, it is unlikely we will be able to p
 Food and beverage requests. Note: Ordering food will add to registration costs.
 
 If applicable, underwriting of workshop costs by a group or agency. Include contact information and the amount to be contributed.
+
 Is the session intended to be linked to a scientific session? If so, which one, and how?
+
 Is the session intended to be linked to a business meeting or mixer? If so, which one, and how?
 
 Describe any known scheduling conflicts. These are not the personal schedules of the session organizers/speakers but rather a list of other proposed sessions that are known to conflict with this session.
