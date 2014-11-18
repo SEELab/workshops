@@ -1,7 +1,7 @@
 **Components of a Workshop Proposal**
 
 *Title of the session*
-Introduction to Ecological Network Analysis
+Ecological Network Analysis
 
 *Description of the session (appears online only; 250 words max.)*
 Network analysis is a useful approach for studying complex ecological interactions: such as those that occur among genes, biochemicals, individuals, or species). This has lead to the rapid influx of network analytical and modeling tools in ecology. This workshop will guide attendees through the basics of network theory and several common applications of it in ecology. First, the organizers will present the underpinning network theory relevant to ecological analyses and models. Next, three sessions comprised of a combination of lecture and hands-on analyses will cover three often used network modeling approaches: bipartite, food web and biogeochemical cycling networks. Last, attendees will learn how to conduct dynamic simulations using a network approach.
