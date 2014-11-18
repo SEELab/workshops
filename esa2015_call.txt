@@ -1,4 +1,4 @@
-**Components of a Workshop Proposal**
+**Application for ESA Workshop, August 2015**
 
 *Title of the session*
 Ecological Network Analysis
@@ -6,14 +6,8 @@ Ecological Network Analysis
 *Description of the session (appears online only; 250 words max.)*
 Network analysis is a useful approach for studying complex ecological interactions: such as those that occur among genes, biochemicals, individuals, or species). This has lead to the rapid influx of network analytical and modeling tools in ecology. This workshop will guide attendees through the basics of network theory and several common applications of it in ecology. First, the organizers will present the underpinning network theory relevant to ecological analyses and models. Next, three sessions comprised of a combination of lecture and hands-on analyses will cover three often used network modeling approaches: bipartite, food web and biogeochemical cycling networks. Last, attendees will learn how to conduct dynamic simulations using a network approach.
 
-- Introduce network theory and modeling (Stuart)
-- Bipartite networks (mutualistic and trophic, Matt)
-- Ecosystem networks (food webs, Caner)
-- Ecosystem network analysis with enaR (BGC models, Stuart)
-- Dynamic network simulations with EcoNet (Caner)
-
 *Summary sentence (appears in print only; 50 word max.)*
-This workshop will introduce ecologists to systems thinking and network analysis through: 1) an interactive overview of systems and network theory in ecology and 2) a hands-on training session for ecosystem network modeling and analysis using enaR and EcoNet.
+This workshop will introduce attendees to network ecology and analysis through: 1) an interactive overview of network theory and 2) a hands-on training session for ecological network modeling, analysis and dynamic simulation using freely available software: bipartite, enaR and EcoNet.
 
 *Name and contact information (affiliation, email) for the lead organizer and any co-organizers*
 Stuart Borrett (Department of Biology and Marine Biology, University of North Carolina Wilmington, borretts@uncw.edu)
