@@ -4,10 +4,12 @@
 Introduction to Ecological Network Analysis
 
 *Description of the session (appears online only; 250 words max.)*
+Network analysis is a useful approach for studying complex ecological interactions: such as those that occur among genes, biochemicals, individuals, or species). This has lead to the rapid influx of network analytical and modeling tools in ecology. This workshop will guide attendees through the basics of network theory and several common applications of it in ecology. 
+
 - Introduce network theory and modeling (Stuart)
-- Bipartite networks (Matt)
-- Ecosystem networks (Caner)
-- Ecosystem network analysis with enaR (Stuart)
+- Bipartite networks (mutualistic and trophic, Matt)
+- Ecosystem networks (food webs, Caner)
+- Ecosystem network analysis with enaR (BGC models, Stuart)
 - Dynamic network simulations with EcoNet (Caner)
 
 *Summary sentence (appears in print only; 50 word max.)*
@@ -22,10 +24,7 @@ Matthew Lau (Harvard Forest, Harvard University, matthewklau@fas.harvard.edu)
 10-25
 
 *Requested scheduling:*
-Saturday or Sunday morning (8:00 – 11:30 AM; 3.5 hours)
 Saturday or Sunday afternoon (12:00 – 5:00 PM; 5 hours)
-Saturday or Sunday full day (8:00 – 5:00 PM; 9 hours)
-Monday, Tuesday, or Thursday lunch break (11:30 am – 1:15 pm; 1.75 hours)
 Monday, Tuesday, or Wednesday evening (8 – 10 pm; 2 hours)
 
 *Setup*
