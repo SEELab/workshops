@@ -1,14 +1,14 @@
 **Components of a Workshop Proposal**
 
 *Title of the session*
-Ecological Systems Analysis and enaR
+Introduction to Ecological Network Analysis
 
 *Description of the session (appears online only; 250 words max.)*
-- Introduce systems theory (Stuart)
-- Ecosystem models (Caner)
-- Software best practices (scripting best practices)
-- Model analysis: enaR (Matt + Stuart) and EcoNet (Caner)
-- Model simulation: EcoNet (Caner + Stuart) and enaR sensitivity (Stuart + Matt)
+- Introduce network theory and modeling (Stuart)
+- Bipartite networks (Matt)
+- Ecosystem networks (Caner)
+- Ecosystem network analysis with enaR (Stuart)
+- Dynamic network simulations with EcoNet (Caner)
 
 *Summary sentence (appears in print only; 50 word max.)*
 This workshop will introduce ecologists to systems thinking and network analysis through: 1) an interactive overview of systems and network theory in ecology and 2) a hands-on training session for ecosystem network modeling and analysis using enaR and EcoNet.
