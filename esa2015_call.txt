@@ -1,29 +1,46 @@
 **Application for ESA Workshop, August 2015**
 
-I wonder if we should modify the description paragraph to
-make it clear that we will spend ~1/3-1/2 the time on ecosystem
-networks, as an example network analysis.  I would hate for everyone
-to show up thinking about community food webs or social-behavioral
-graphs and leave frustrated.  However, I do think we need to consider
-other kinds of analyses broadly so that we have a sufficient audience.
+-----------
+--Outline--
+-----------
+[? prep and help getting computers setup]
+[1 hour] Introduction to modeling and Network Theory (Establishing context)
+(Stuart, Bernie, Stuart)
+[1 hour] Food webs and ecosystem models: ENA and NEA (Stuart & Caner)
+[1 hour] Bipartite Networks (Matt)
+[1 hour] EcoNet: Dynamic simulation, NPT and NFD (Caner)
+[+1 hour for questions, breaks and unstructured learning]
 
-As I mentioned, one of the things I think we need to do is to be clear
-about the learning objectives/outcomes (SLO’s in academic jargon).
-Here are 3 candidates:
+----------
+---Prep---
+----------
+- Installing R and loading packages
+- Readings suggested for each section
+- Software best practices
 
-At the end of the workshop, attendees should be able to ...
+-------------
+--Bipartite--
+-------------
+[15 min] Bipartite graph: basic structure and ecology
+[15 min] Metrics: nestedness, modularity and null models
+[30 min] Bipartite package and example analysis
 
-
-Audience:  I think our target audience is primarily graduate students
-and postdocs.  We might also be of interest to early career
-scientists, but I don’t expect this to be our primary audience.
-
-Assumptions:  Everyone will bring their own computer.  We will provide
-instructions for installing R and toolboxes prior to the workshop.
-Perhaps we could meet an hour earlier with folks needing help.  I
-think we also need to assume little to know programming experience and
-probably little exposure to modeling.  Again, we might need to state
-this in our descriptive paragraph.
+------------
+---EcoNet---
+------------
+[15 mins] EcoNet presentation and demonstration.
+[20 mins] EcoNet demonstration, and integration to other platforms
+(enaR). Should not take more given that the results (ENA properties)
+are discussed earlier.
+[15 mins] Network Particle Tracking (NPT). After an EcoNet run, users
+can choose to run NPT online, which provides a pathway for all
+particles (based on the flow currency, particles represent C, N, P
+atoms or energy quanta). We have the module ready, to be integrated in
+EcoNet. 
+[10 mins] Network Flux Decomposition (NFD). It is a decent way to
+decompose a network into its functioning pieces. It is already
+integrated into the test version (
+http://eco.engr.uga.edu/index_test.html ).
 
 *Title of the session*
 Ecological Network Analysis
@@ -45,10 +62,16 @@ network analyses focusing on three common ecological networks,
 mutualistic networks, food webs and ecosystem networks.
 
 
-*Summary sentence (appears in print only; 50 word max.)*
-This workshop will introduce attendees to network ecology and analysis through: 1) an interactive overview of network theory and 2) a hands-on training session for ecological network modeling, analysis and dynamic simulation using freely available software: bipartite, enaR and EcoNet.
+*Summary sentence (appears in print only; 50 word max.)* 
+
+This workshop will introduce attendees to network ecology and analysis
+through: 1) an interactive overview of network theory and 2) a
+hands-on training session for ecological network modeling, analysis
+and dynamic simulation using freely available software: bipartite,
+enaR and EcoNet.
 
 *Name and contact information (affiliation, email) for the lead organizer and any co-organizers*
+
 Stuart Borrett (Department of Biology and Marine Biology, University of North Carolina Wilmington, borretts@uncw.edu)
 Caner Kazanci (Department of Mathematics and Faculty of Engineering, University of Georgia, caner@uga.edu)
 Matthew Lau (Harvard Forest, Harvard University, matthewklau@fas.harvard.edu)

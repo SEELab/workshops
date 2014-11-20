@@ -1,10 +1,49 @@
 **Application for ESA Workshop, August 2015**
 
+I wonder if we should modify the description paragraph to
+make it clear that we will spend ~1/3-1/2 the time on ecosystem
+networks, as an example network analysis.  I would hate for everyone
+to show up thinking about community food webs or social-behavioral
+graphs and leave frustrated.  However, I do think we need to consider
+other kinds of analyses broadly so that we have a sufficient audience.
+
+As I mentioned, one of the things I think we need to do is to be clear
+about the learning objectives/outcomes (SLO’s in academic jargon).
+Here are 3 candidates:
+
+At the end of the workshop, attendees should be able to ...
+
+
+Audience:  I think our target audience is primarily graduate students
+and postdocs.  We might also be of interest to early career
+scientists, but I don’t expect this to be our primary audience.
+
+Assumptions:  Everyone will bring their own computer.  We will provide
+instructions for installing R and toolboxes prior to the workshop.
+Perhaps we could meet an hour earlier with folks needing help.  I
+think we also need to assume little to know programming experience and
+probably little exposure to modeling.  Again, we might need to state
+this in our descriptive paragraph.
+
 *Title of the session*
 Ecological Network Analysis
 
 *Description of the session (appears online only; 250 words max.)*
-Network analysis is a useful approach for studying complex ecological interactions: such as those that occur among genes, biochemicals, individuals, or species). This has lead to the rapid influx of network analytical and modeling tools in ecology. This workshop will guide attendees through the basics of network theory and several common applications of it in ecology. First, the organizers will present the underpinning network theory relevant to ecological analyses and models. Next, three sessions comprised of a combination of lecture and hands-on analyses will cover three often used network modeling approaches: bipartite, food web and biogeochemical cycling networks. Last, attendees will learn how to conduct dynamic simulations using a network approach.
+Network analysis is a useful approach for studying complex ecological
+interactions: such as those that occur among genes, biochemicals,
+individuals, or species). This has lead to the rapid influx of network
+analytical and modeling tools in ecology. This workshop will guide
+attendees through the basics of network theory and several common
+applications of it in ecology. By the end, attendees will be able to:
+1.) Describe the core features of a network model, the variety in
+ecology, and identify the data required to build one, 2.) explain what
+kinds of ecological questions they can be used to address and 3.) use
+software tools to perform selected ecological network
+analysis. Beginning with and introduction to the underpinning network
+theory the workshop will cover both structural and dynamic ecological
+network analyses focusing on three common ecological networks,
+mutualistic networks, food webs and ecosystem networks.
+
 
 *Summary sentence (appears in print only; 50 word max.)*
 This workshop will introduce attendees to network ecology and analysis through: 1) an interactive overview of network theory and 2) a hands-on training session for ecological network modeling, analysis and dynamic simulation using freely available software: bipartite, enaR and EcoNet.
@@ -19,21 +58,33 @@ Matthew Lau (Harvard Forest, Harvard University, matthewklau@fas.harvard.edu)
 
 *Requested scheduling:*
 Saturday or Sunday afternoon (12:00 – 5:00 PM; 5 hours)
-Monday, Tuesday, or Wednesday evening (8 – 10 pm; 2 hours)
 
-*Setup*
-The standard A/V setup is a screen, LCD projector, and laptop. Any additional A/V equipment must be requested in the proposal and may incur additional fees. Additional equipment includes internet connectivity, speakers for sound, portable microphones,  flip charts, easel poster boards, and extra power strips for participant laptops.
+*Setup* 
+Organizers and attendees will bring their own computers and
+will be given instructions on how to access relevant software.
 
-Room set-up desired: theater, conference, hollow square, rounds, other. 
+Presentation equipment, either a project and screen or a large format
+LCD screen with computer access. 
 
-In order to give priority to paper sessions, it is unlikely we will be able to provide room setups other than theater style for the weekday lunchtime (11:30 AM – 1:15 PM) workshop time slots. The weekend and evening time slots are typically more flexible in regard to room setup options.
+Internet access.
 
-Food and beverage requests. Note: Ordering food will add to registration costs.
+White boards. 
 
-If applicable, underwriting of workshop costs by a group or agency. Include contact information and the amount to be contributed.
+Room set-up desired: class room with desks or tables
+
+Food and beverage requests. 
+None. 
+
+If applicable, underwriting of workshop costs by a group or
+agency. Include contact information and the amount to be contributed.
 
 Is the session intended to be linked to a scientific session? If so, which one, and how?
+No.
 
 Is the session intended to be linked to a business meeting or mixer? If so, which one, and how?
+No. 
 
-Describe any known scheduling conflicts. These are not the personal schedules of the session organizers/speakers but rather a list of other proposed sessions that are known to conflict with this session.
+Describe any known scheduling conflicts. These are not the personal
+schedules of the session organizers/speakers but rather a list of
+other proposed sessions that are known to conflict with this session.
+None.
