@@ -19,6 +19,13 @@
 - Software best practices
 
 -------------
+--Food Webs--
+-------------
+[15 min] Basics of food webs
+[15 min] Intro to some metrics
+[30 min] Using enaR for food webs
+
+-------------
 --Bipartite--
 -------------
 [15 min] Bipartite graph: basic structure and ecology
