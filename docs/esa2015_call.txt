@@ -22,8 +22,8 @@
 --Food Webs--
 -------------
 [15 min] Basics of food webs
-[15 min] Intro to some metrics
-[30 min] Using enaR for food webs
+[15 min] Intro to some ENA metrics
+[30 min] Using enaR to analyze ecosystem networks
 
 -------------
 --Bipartite--
