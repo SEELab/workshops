@@ -1,9 +1,9 @@
-**Application for ESA Workshop, August 2015**
+**ESA Workshop, 12-5pm August 9 2015**
 
 -----------
 --Outline--
 -----------
-[? prep and help getting computers setup]
+[1 hour] ~9am check-in and check/prep slides
 [1 hour] Introduction to modeling and Network Theory (Establishing context)
 (Stuart B, Bernie, Stuart W)
 [1 hour] Food webs and ecosystem models: ENA and NEA (Stuart & Caner)
@@ -11,12 +11,11 @@
 [1 hour] EcoNet: Dynamic simulation, NPT and NFD (Caner)
 [+1 hour for questions, breaks and unstructured learning]
 
-----------
----Prep---
-----------
+--------------------
+---Pre-class Prep---
+--------------------
 - Installing R and loading packages
 - Readings suggested for each section
-- Software best practices
 
 -------------
 --Food Webs--
