@@ -33,20 +33,6 @@ remind them about what they learned and where they can get more
 information.
 
 
- One way to illustrate this issue is to review the Wikipedia entry on
- ecological networks
- (https://en.wikipedia.org/wiki/Ecological_network). Our Ecosystem
- Network Modeling and Analysis is NOT represented on the page (which
- perhaps we should correct).
 
-
-
-(4) Matt — if we can communicate with the participants ahead of time,
-it would be helpful to know how many of them have experience with R.
-It would also be interesting to ask them about their motivation to
-join this workshop.  What do they want to know?
-
-(5) If you were going to select 2-3 papers for the students to read
-before the workshop, what would they be?  I will get these posted on
-my website ASAP.
+https://en.wikipedia.org/wiki/Ecological_network
 
