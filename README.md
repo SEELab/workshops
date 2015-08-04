@@ -1,4 +1,4 @@
-Ecologican Network Analysis
+Ecological Network Analysis
 ===========================
 
 
