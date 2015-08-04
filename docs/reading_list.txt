@@ -1,0 +1,65 @@
+Stuart Whipple's References
+
+Botkin, D.B. 1977. Pages 213-234 in Hall, C.A.S. and Day Jr.,
+J.W. (eds)
+Ecosystem modeling in theory and practice: an introduction with
+case studies. Wiley. New York.
+
+Breed, G.A., Jackson, G.A., Richardson, T.L.  2004. Sedimentation,
+carbon export and food web structure in the Mississippi River plume
+described by inverse analysis. Marine Ecology Progress Series
+278:35-51.
+
+Case, Ted J. 2000. An Illustrated Guide to Theoretical
+Ecology. Oxford. NY
+
+Fath, B.D., Scharler, U.M., Ulanowicz, R.E., Hannon, B. 2007.
+Ecological network analysis: network construction. Ecological
+Modelling 208:49-55
+
+Kazanci, C. 2007. EcoNet: A new software for ecological modeling,
+simulation and network analysis. Ecological Modelling 208:3-8.
+
+Miller, G.T. 1992. Living in the environment : an introduction to
+environmental science. Wadsworth. Belmont, California.
+
+Okey, T.A., Pauly, D., 1999. A mass-balanced model of trophic flows in
+Prince William Sound: de-compartmentalizing ecosystem knowledge. In:
+Keller, S. (Ed.), Ecosystem
+Approaches for Fisheries Management. University of Alaska Sea Grant,
+Fairbanks, pp. 621–635.
+
+Pauly, D., Christensen, V., Walters, C., 2000. Ecopath, Ecosim, and
+Ecospace as tools for evaluating ecosystem impact of fisheries. ICES
+Journal of Marine Science 57, 697–706.
+
+Pickett, S.T.A., Kolasa, J. and Jones, C.G. 2007. Ecological
+understanding : the nature of theory and the theory of nature. 2nd
+edition. Elsevier/Academic Press. Amsterdam and Boston.
+
+Rykiel, E.J. 1996. Testing ecological models: the meaning of
+validation. Ecological Modelling 90:229-244
+
+Spieles, D.J. Mitsch, W.J. 2003. A model of macroinvertebrate trophic
+structure and oxygen demand in freshwater wetlands. Ecological
+Modelling 161:183-194.
+
+Tollner, E.W., Schramski, J.R., Kazanci, C., Patten,
+B.C. 2009. Implications of network particle tracking (NPT) for
+ecological model interpretation. Ecologcal Modelling 220:1904-1912.
+
+Ulanowicz, R.E., Scharler, U.M. 2008. Least-inference methods for
+constructing networks of trophic flows. Ecological Modelling
+210:278-286.
+
+Vezina, A.F. , Pahlow, M. 2003. Reconstruction of ecosystem flows
+using inverse methods: how well do they work? Journal of Marine
+Systems 40-41:55-77.
+
+Vezina, A.F., Platt, T.C. 1988. Food web dynamics in the
+ocean. I. Best estimates of flow networks using inverse
+methods. Marine Ecology Progress Series 42:269-287.
+
+White,I.D., Mottershead,D.N. & Harrison,SJ. 1992. Environmental
+Systems. Stanely Thornes. UK.
+
