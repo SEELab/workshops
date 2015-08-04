@@ -1,6 +1,8 @@
 Ecological Network Analysis
 ===========================
 
+http://seelab.github.io/workshops/
+
 ## Software
 **enaR**
 https://cran.r-project.org/web/packages/enar/index.html
