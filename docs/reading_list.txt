@@ -1,4 +1,5 @@
-Stuart Whipple's References
+References for Stuart Whipple for ENA Workshop
+at ESA 2015 Baltimore, MD
 
 Botkin, D.B. 1977. Pages 213-234 in Hall, C.A.S. and Day Jr.,
 J.W. (eds)
@@ -13,12 +14,19 @@ described by inverse analysis. Marine Ecology Progress Series
 Case, Ted J. 2000. An Illustrated Guide to Theoretical
 Ecology. Oxford. NY
 
+Dormann, C. F., Strauss, R. 2014. A method for detecting modules in
+quantitative bipartite networks. Methods in Ecology and Evolution
+5:90-98.
+
 Fath, B.D., Scharler, U.M., Ulanowicz, R.E., Hannon, B. 2007.
 Ecological network analysis: network construction. Ecological
 Modelling 208:49-55
 
 Kazanci, C. 2007. EcoNet: A new software for ecological modeling,
 simulation and network analysis. Ecological Modelling 208:3-8.
+
+Memmott, J.  1999. The structure of a plant-pollinator food
+web. Ecology Letters 2:276-280.
 
 Miller, G.T. 1992. Living in the environment : an introduction to
 environmental science. Wadsworth. Belmont, California.
