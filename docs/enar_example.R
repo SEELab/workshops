@@ -17,4 +17,4 @@ fake.model <- pack(flow=flow.mat,
 ## The model network object contents
 fake.model
 
-
+## https://raw.githubusercontent.com/SEELab/workshops/beta/docs/enar_example.R
