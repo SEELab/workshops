@@ -1,8 +1,8 @@
 WK25 ecological network analysis
 
-- send out slides
-- finish modularity null models
-- 
+- finish modularity null models in lecture
+- link to further info on null model analysis
+- thanks yous to caner, stuart, and stuart
 
 http://people.uncw.edu/borretts/ENA_workshop_esa2015.html
 
